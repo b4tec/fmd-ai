@@ -9,7 +9,7 @@
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-> git clone https://github.com/SHIVADAMAIN/fmdi-ai.git
+> git clone https://github.com/SHIVADAMAIN/fmd-ai.git
 ```
 
 2. Change your directory to the cloned repo and create a Python virtual environment named 'env', type the following commmand in command prompt
